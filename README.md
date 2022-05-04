@@ -1,5 +1,7 @@
 
-En este repositorio analizo las 25 empresas de retail más grandes de U 
+En este repositorio analizo las 25 empresas de retail más grandes de Estados Unidos.
+
+# Conclusiones
 
 **1. Ventas**
   - Walmart es el lider en ventas de estas empresas.
